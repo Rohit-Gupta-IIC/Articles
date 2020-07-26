@@ -1,0 +1,3 @@
+data.describe()  
+
+data.count()
